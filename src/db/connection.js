@@ -11,4 +11,4 @@ function conexao(){
       })
 }
 
-module.expors=conexao()
+module.exports=conexao()
